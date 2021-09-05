@@ -1,16 +1,16 @@
-### Hi there 👋
+## Salve salve familia aqui é o smokebtw!
 
-<!--
-**smokebtw/smokebtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi"> a little about me :
+Me chamo Miguel Arguelo, tenho 15 anos atualmente focado a estudar js. 
+  
+Sempre focado a fazer meu progresso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## languages I use only in backend :
+<a href="#" target="_blank"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="" width="30" height="35"/></a>
+
+## <img src="https://cdn.discordapp.com/emojis/864816587298439189.gif?v=1" width="20px" alt="hi">  Stats on Github
+[![Shade Github Activity Grap](https://activity-graph.herokuapp.com/graph?username=smokebtw&theme=react-dark)](https://github.com/shadegg?tab=repositories)
+Informations system by: anuraghazra
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadegg&show_icons=true&locale=en" alt="smokebtw" /></p> 
+This readme was inspired by [@shadegg](https://www.github.com/shadegg)
