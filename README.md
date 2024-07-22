@@ -2,7 +2,7 @@
 
 
 ## <img src="https://cdn.discordapp.com/emojis/864817657479692298.gif?v=1" width="20px" alt="hi"> a little about me :
-Me chamo Miguel Arguelo, tenho 15 anos atualmente focado a estudar js. 
+Me chamo Miguel Arguelo, mexendo com oq eu quero.
   
 Sempre focado a fazer meu progresso.
 
